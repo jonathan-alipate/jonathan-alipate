@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, welcome to my profile 👋
 
-<!--
-**jonathan-alipate/jonathan-alipate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#####- 🚶 The reason I became a developer was my curiosity and passion for problem solving. Programming truly is a superpower, and it allows regular folk like myself to build powerful solutions to the problems that individuals face on a day to day basis. Steve jobs once said that computers are like "Bicycles for the mind", which is true, they allow you to do far more with far less, and programming is the language of computers.
 
-Here are some ideas to get you started:
+#####- 🔭 I’m currently working on sharpening and honing my database and javascript skills by building an automated trading bot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#####- 🌱 I’m currently learning about how to build DAPPS (Decentralised Applications) using smart contracts on the ethereum blockchain.
+
+#####- 👯 I’m looking to collaborate on anything and everything.
+
+#####- 🤔 I’m looking for book recommendations about programming architectures.
+
+###[www.jonathanalipate.com](https://www.jonathanalipate.com "My Portfolio")
