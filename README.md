@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on sharpening and honing my database and Node.js skills by building an automated trading bot.
 
-- 🌱 I’m currently learning about how to build DAPPS (Decentralised Applications) using smart contracts on the ethereum blockchain.
+- 🌱 I’m currently learning about how to build DAPPS (Decentralised Applications) using smart contracts on the Ethereum blockchain.
 
 - 👯 I’m looking to collaborate on anything and everything.
 
