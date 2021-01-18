@@ -8,6 +8,6 @@
 
 - 👯 I’m looking to collaborate on anything and everything.
 
-- 🤔 I’m looking for book recommendations about programming architectures.
+- 🤔 I’m looking for book recommendations on the topic of programming architectures.
 
 [www.jonathanalipate.com](https://www.jonathanalipate.com "My Portfolio")
