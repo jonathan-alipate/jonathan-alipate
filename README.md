@@ -1,8 +1,8 @@
 ### Hi there, welcome to my Github profile 👋
 
-- 🚶 The reason I became a developer was my curiosity and passion for problem solving. Programming truly is a superpower, and it allows regular folk like myself to build powerful solutions to the problems that individuals face on a day to day basis. Steve jobs once said that computers are like "Bicycles for the mind", which is true, they allow you to do far more with far less, and programming is the language of computers.
+- 🚶 I am a developer with a curiosity and passion for problem solving. Programming is a superpower, and it allows regular folk like myself to build solutions to the problems that we face on a day to day basis. As steve jobs once said: "computers are like bicycles for the mind".
 
-- 🔭 I’m currently working on sharpening and honing my database and Node.js skills by building an automated trading bot.
+- 🔭 I’m currently working on sharpening and my database/API and Node.js skills by attempting to build an automated trading bot.
 
 - 🌱 I’m currently learning about how to build DAPPS (Decentralised Applications) using smart contracts on the Ethereum blockchain.
 
