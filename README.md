@@ -1,6 +1,6 @@
 ### Hi there, welcome to my Github profile 👋
 
-- 🚶 I am a developer with a curiosity and passion for problem solving. Programming is a superpower, and it allows regular folk like myself to build solutions to the problems that we face on a day to day basis. As steve jobs once said: "computers are like bicycles for the mind".
+- 🚶 I am a developer with a curiosity and passion for problem solving. Programming is a superpower, and it allows regular folk like myself to build solutions to the problems that we face on a day to day basis.
 
 - 🔭 I’m currently working on sharpening and my database/API and Node.js skills by attempting to build an automated trading bot.
 
