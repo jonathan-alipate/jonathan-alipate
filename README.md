@@ -2,7 +2,7 @@
 
 - 🚶 I am a developer with a curiosity and passion for problem solving. Programming is a superpower, and it allows regular folk like myself to build solutions to the problems that we face on a day to day basis.
 
-- 🔭 I’m currently working on sharpening and my database/API and Node.js skills by attempting to build an automated trading bot.
+- 🔭 I’m currently working on sharpening my database/API and Node.js skills by attempting to build an automated trading bot.
 
 - 🌱 I’m currently learning about how to build DAPPS (Decentralised Applications) using smart contracts on the Ethereum blockchain.
 
